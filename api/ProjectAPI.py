@@ -9,8 +9,8 @@ class ProjectAPI(Resource):
 
         projectDetails = {
                 "version" : "1.0.0.0",
-                "owner" : "Selftuts",
-                "projectName" : "Python Flask Docker Container"
+                "owner" : "Jabz",
+                "projectName" : "Python Flask Docker Container devops lab"
         }
 
 
